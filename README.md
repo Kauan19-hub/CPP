@@ -31,8 +31,8 @@ In short:
 
 ###
 
-✅️- `C` is more root;
-✅️- `C++` is turbocharged;
+✅️- `C` is more root;<br>
+✅️- `C++` is turbocharged;<br>
 ✅️- `C#` is more modern.
 
 ---
